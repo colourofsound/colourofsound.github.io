@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technician. Musician. Writer. on Chris Walker</title>
+    <link>https://christianwalker.me/</link>
+    <description>Recent content in Technician. Musician. Writer. on Chris Walker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>&amp;copy;2020 Chris Walker</copyright><atom:link href="https://christianwalker.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipsum in</title>
+      <link>https://christianwalker.me/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://christianwalker.me/tech/</guid>
+      <description>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://christianwalker.me/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://christianwalker.me/music/</guid>
+      <description>Since the age of 13, Chris has been playing the guitar. He later picked up drums and has always sang; and this lead to a hobbyist career in music.
+Chris has played in numerous bands throughout the years; most recently as a session guitarist and collaborator for Martyn Peters. He has also played in a 22 piece Rhythm and Blues Orchestra; in the pit for a production of Jason Robert Brown&amp;rsquo;s The Last Five Years as well as recording, mixing and mastering his own music.</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://christianwalker.me/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://christianwalker.me/writing/</guid>
+      <description>It was only a matter of time for Chris began writing, given that his Mum is a published author of both fiction and reference books. At his role at razorblue, Chris has authored a number of technical documents relating to IT processes, the clarity of which is essential for their engineers.
+In a more journalistic capacity, Chris has written for Thryve.world as a travel and adventure writer; describing adventures in the Lake District on two wheels.</description>
+    </item>
+    
+  </channel>
+</rss>
