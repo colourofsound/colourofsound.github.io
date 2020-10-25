@@ -8,15 +8,6 @@
     <language>en-GB</language>
     <copyright>&amp;copy;2020 Chris Walker</copyright><atom:link href="https://christianwalker.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ipsum in</title>
-      <link>https://christianwalker.me/tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://christianwalker.me/tech/</guid>
-      <description>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci.</description>
-    </item>
-    
-    <item>
       <title>Music</title>
       <link>https://christianwalker.me/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -24,6 +15,15 @@
       <guid>https://christianwalker.me/music/</guid>
       <description>Since the age of 13, Chris has been playing the guitar. He later picked up drums and has always sang; and this lead to a hobbyist career in music.
 Chris has played in numerous bands throughout the years; most recently as a session guitarist and collaborator for Martyn Peters. He has also played in a 22 piece Rhythm and Blues Orchestra; in the pit for a production of Jason Robert Brown&amp;rsquo;s The Last Five Years as well as recording, mixing and mastering his own music.</description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://christianwalker.me/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://christianwalker.me/tech/</guid>
+      <description>Through a serendipitous job offer from a friend at University, Chris began a career in Technology installing bespoke, outdoor-ready wireless and internet solutions into music festivals. After two years working at the likes of Glastonbury, Leeds and T in the Park, he moved into IT Support, specialising in Apple machines. After a 7 year term at the University of Chester, working in imaging and deployment, Chris is now a Team Leader at razorblue, a national Managed Service Provider.</description>
     </item>
     
     <item>
